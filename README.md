@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-    <img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?b=1&s=612x612&w=0&k=20&c=B1O_UHuhlV34GJnQxQgxGDqmtBKMJkMf_FGssI1WEVE=" 
+    <img src="https://media.istockphoto.com/id/1319034403/photo/deep-learning.jpg?s=612x612&w=0&k=20&c=6e6C0087SmHq2CHHQ789DUi7xsihQS6bysokwFwpZ6A=" 
          alt="thummalachakravarthi2" 
          username="thummalachakravarthi2" 
          label="Profile views" 
