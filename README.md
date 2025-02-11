@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring boot and Hibernate**
+- 🌱 I’m currently learning **Quarkus**
 
 - 📫 How to reach me **thummalachakravarthi06@gmail.com**
 
