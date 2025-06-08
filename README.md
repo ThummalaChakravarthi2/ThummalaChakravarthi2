@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Quarkus**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **thummalachakravarthi06@gmail.com**
 
