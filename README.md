@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Aws**
 
 - 📫 How to reach me **thummalachakravarthi06@gmail.com**
 
