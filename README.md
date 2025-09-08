@@ -3,17 +3,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-<p align="center"> 
-    <img src="https://media.istockphoto.com/id/1319034403/photo/deep-learning.jpg?s=612x612&w=0&k=20&c=6e6C0087SmHq2CHHQ789DUi7xsihQS6bysokwFwpZ6A=" 
-         alt="thummalachakravarthi2" 
-         username="thummalachakravarthi2" 
-         label="Profile views" 
-         color="0e75b6" 
-         style="flat" 
-    /> 
-</p>
-
-
 
 - 🌱 I’m currently learning **AWS**
 
