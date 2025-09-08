@@ -1,4 +1,4 @@
-![logo](https://github.com/ThummalaChakravarthi2/ThummalaChakravarthi2/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Thummala Chakravarthi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
